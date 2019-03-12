@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Share Wishes</string>
+    <string name="title_home">Home</string>
+    <string name="favourites">Favourites</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="like">Like</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
